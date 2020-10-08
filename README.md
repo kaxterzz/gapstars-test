@@ -30,7 +30,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Other Information ###
-** Every Requirement in the assessment is completed !
-** Unit tests can be found in tests/unit directory
+
+    - Every Requirement in the assessment is completed !
+    - Unit tests can be found in tests/unit directory
 
 
